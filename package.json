@@ -1,0 +1,26 @@
+{
+  "name": "gregormovies",
+  "version": "1.0.0",
+  "description": "Proyecto de página web mobile en el cual se realiza consumo de API REST con JavaScript.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvgregoryj/GregorMovies.git"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "JS",
+    "HTML",
+    "CSS"
+  ],
+  "author": "mvgregoryj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvgregoryj/GregorMovies/issues"
+  },
+  "homepage": "https://github.com/mvgregoryj/GregorMovies#readme"
+}
